@@ -1,4 +1,14 @@
-設定資料など
+技術マニュアル
+===============================
+
+.. toctree::
+   :maxdepth: 1
+
+   ./SetUpManual/inits
+   ./SetUpManual/sphinxSetUp
+
+
+設定資料
 ===============================
 
 .. toctree::
@@ -6,3 +16,11 @@
 
    ./Games/stories
 
+
+その他備忘録
+===============================
+
+.. toctree::
+   :maxdepth: 1
+
+   ./Others/markdownCheet
