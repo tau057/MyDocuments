@@ -8,13 +8,13 @@
    ./SetUpManual/sphinxSetUp
 
 
-設定資料
+ゲームマニュアル
 ===============================
 
 .. toctree::
    :maxdepth: 1
 
-   ./Games/stories
+   ./Games/index
 
 
 その他備忘録
