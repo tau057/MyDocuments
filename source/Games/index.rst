@@ -7,6 +7,7 @@ BerriesWitchCafe
 .. toctree::
    :maxdepth: 1
 
-   ./BerriesWitchCafe/stories
    ./BerriesWitchCafe/characters
+   ./BerriesWitchCafe/worlds
+   ./BerriesWitchCafe/stories
 

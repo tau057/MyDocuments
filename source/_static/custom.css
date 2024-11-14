@@ -12,7 +12,7 @@ section h1 {
 
 /* h2 見出し */
 section h2 {
-    background: linear-gradient(to right, rgba(103, 174, 219, 0.6), rgba(103, 174, 219, 0.6) 80%, transparent 100%);
+    background: linear-gradient(to right, rgba(103, 219, 111, 0.6), rgba(103, 219, 111, 0.6) 80%, transparent 100%);
     padding: 3px 10px;
     border-radius: 5px;
     color: #003366;
@@ -20,7 +20,7 @@ section h2 {
 
 /* h3 見出し */
 section h3 {
-    background: linear-gradient(to right, rgba(103, 174, 219, 0.4), rgba(103, 174, 219, 0.4) 60%, transparent 100%);
+    background: linear-gradient(to right, rgba(195, 218, 102, 0.4), rgba(195, 218, 102, 0.4) 60%, transparent 100%);
     padding: 3px 10px;
     border-radius: 5px;
     color: #003366;
@@ -28,7 +28,7 @@ section h3 {
 
 /* h4 見出し */
 section h4 {
-    background: linear-gradient(to right, rgba(103, 174, 219, 0.3), rgba(103, 174, 219, 0.3) 50%, transparent 100%);
+    background: linear-gradient(to right, rgba(195, 218, 102, 0.3), rgba(195, 218, 102, 0.3) 50%, transparent 100%);
     padding: 3px 10px;
     border-radius: 5px;
     color: #003366;
@@ -36,7 +36,7 @@ section h4 {
 
 /* h5 見出し */
 section h5 {
-    background: linear-gradient(to right, rgba(103, 174, 219, 0.2), rgba(103, 174, 219, 0.2) 40%, transparent 100%);
+    background: linear-gradient(to right, rgba(195, 218, 102, 0.2), rgba(195, 218, 102, 0.2) 40%, transparent 100%);
     padding: 3px 10px;
     border-radius: 5px;
     color: #003366;
@@ -44,7 +44,7 @@ section h5 {
 
 /* h6 見出し */
 section h6 {
-    background: linear-gradient(to right, rgba(103, 174, 219, 0.1), rgba(103, 174, 219, 0.1) 30%, transparent 100%);
+    background: linear-gradient(to right, rgba(195, 218, 102, 0.1), rgba(195, 218, 102, 0.1) 30%, transparent 100%);
     padding: 3px 10px;
     border-radius: 5px;
     color: #003366;
