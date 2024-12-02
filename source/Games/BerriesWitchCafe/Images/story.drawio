@@ -1,0 +1,562 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.9.0">
+  <diagram name="ページ1" id="4HlSVfIfSbR0h8s7HkHj">
+    <mxGraphModel dx="3695" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pvmtVVk8WC13cd8vt48B-1" value="お店を任される" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-5" value="有名店にスカウトされる" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="4810" y="301.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-7" value="スカウトを断る" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="4830" y="611.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-10" value="夢の中の少女の登場" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-18" value="カフェで働き始める" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="639" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-19" value="前作主人公の本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-20" value="古代の種を見つける" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-21" value="ロアの活躍" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-21" target="pvmtVVk8WC13cd8vt48B-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="460" as="sourcePoint" />
+            <mxPoint x="-170" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-23" value="孤児院で暮らし始める" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-24" value="孤児院から脱走する" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-25" value="祖父と暮らし始める" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-25" target="pvmtVVk8WC13cd8vt48B-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-28" value="思い出のメニュー" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="330" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-19" target="pvmtVVk8WC13cd8vt48B-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="390" as="sourcePoint" />
+            <mxPoint x="-60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-31" value="カフェの初期成長" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="920" y="350" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="pvmtVVk8WC13cd8vt48B-30" target="pvmtVVk8WC13cd8vt48B-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-79" target="pvmtVVk8WC13cd8vt48B-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="290" as="sourcePoint" />
+            <mxPoint x="856" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-23" target="pvmtVVk8WC13cd8vt48B-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="380" as="sourcePoint" />
+            <mxPoint x="-500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-24" target="pvmtVVk8WC13cd8vt48B-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="320" as="sourcePoint" />
+            <mxPoint x="-410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-80" target="pvmtVVk8WC13cd8vt48B-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="320" as="sourcePoint" />
+            <mxPoint x="-120" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-1" target="pvmtVVk8WC13cd8vt48B-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="430" as="sourcePoint" />
+            <mxPoint x="930" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-58" value="畑を提供する" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="414" y="90" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-61" value="果実の配合" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="651" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-62" value="料理の提供" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="510" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-63" value="果実の植え方・収穫" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="480" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-64" value="トレンドへの対応" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="681" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-65" value="ゲームの基本的な進行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="490" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="640" as="sourcePoint" />
+            <mxPoint x="-160" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-30" value="カフェの衰退" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="350" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-20" target="pvmtVVk8WC13cd8vt48B-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="290" as="sourcePoint" />
+            <mxPoint x="230" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-68" value="森での出会い" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="50" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF8000;" parent="1" source="pvmtVVk8WC13cd8vt48B-58" target="pvmtVVk8WC13cd8vt48B-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="150" as="sourcePoint" />
+            <mxPoint x="930" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1" parent="1" source="pvmtVVk8WC13cd8vt48B-104" target="pvmtVVk8WC13cd8vt48B-71" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="420" as="sourcePoint" />
+            <mxPoint x="942" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-71" value="森での出会い" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-71" target="pvmtVVk8WC13cd8vt48B-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="210" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-68" target="pvmtVVk8WC13cd8vt48B-74" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="290" as="sourcePoint" />
+            <mxPoint x="414" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-74" value="カフェでの出会い" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="230" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-76" value="カフェでの出会い" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="230" y="90" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-77" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-74" target="pvmtVVk8WC13cd8vt48B-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="420" as="sourcePoint" />
+            <mxPoint x="135" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF8000;" parent="1" source="pvmtVVk8WC13cd8vt48B-76" target="pvmtVVk8WC13cd8vt48B-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="400" as="sourcePoint" />
+            <mxPoint x="260" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-79" value="果実の意外性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="639" y="310" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-74" target="pvmtVVk8WC13cd8vt48B-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="639" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-80" value="夢の開示" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="414" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-83" value="お金持ちになる" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="414" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-20" target="pvmtVVk8WC13cd8vt48B-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="300" as="sourcePoint" />
+            <mxPoint x="60" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-86" value="カフェ使用の打診" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="414" y="310" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1" parent="1" source="pvmtVVk8WC13cd8vt48B-71" target="pvmtVVk8WC13cd8vt48B-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="1630" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-88" value="カフェの提供" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="639" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-86" target="pvmtVVk8WC13cd8vt48B-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="300" as="sourcePoint" />
+            <mxPoint x="649" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-91" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="pvmtVVk8WC13cd8vt48B-30" target="pvmtVVk8WC13cd8vt48B-86" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="370" as="sourcePoint" />
+            <mxPoint x="1106" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="pvmtVVk8WC13cd8vt48B-30" target="pvmtVVk8WC13cd8vt48B-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="370" as="sourcePoint" />
+            <mxPoint x="424" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-93" value="&lt;div align=&quot;left&quot;&gt;・ゲームの基本的な操作方法を学ぶ&lt;br&gt;・主人公の目的を理解する&lt;br&gt;・ゲームのゴールを匂わせる&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="587.5" width="270" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-94" value="果実が話題になる" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="380" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-95" value="果実に惹かれ来店" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="561" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-96" value="カフェを見守る" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="90" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="pvmtVVk8WC13cd8vt48B-96" target="pvmtVVk8WC13cd8vt48B-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="250" as="sourcePoint" />
+            <mxPoint x="-120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1" parent="1" source="pvmtVVk8WC13cd8vt48B-1" target="pvmtVVk8WC13cd8vt48B-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="420" as="sourcePoint" />
+            <mxPoint x="50" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-104" value="森での採取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-107" value="新メニュー開発の思い" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="380" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-107" target="pvmtVVk8WC13cd8vt48B-86" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="110" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-107" target="pvmtVVk8WC13cd8vt48B-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="400" as="sourcePoint" />
+            <mxPoint x="424" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-110" value="お店の変化を拒絶する" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="1952" y="411" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-111" value="お店の変化を許容する" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="2795" y="411" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-113" value="夢の中の少女と和解" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="71" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-114" value="思い出のメニュー" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="441" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-115" value="おじいさんのサンドイッチ" style="text;html=1;strokeColor=#0080ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="461" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-116" value="思い出のメニューの真実" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="2525" y="181" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-117" value="客に合わせて変化させていた" style="text;html=1;strokeColor=#0080ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2515" y="201" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1" parent="1" source="pvmtVVk8WC13cd8vt48B-130" target="pvmtVVk8WC13cd8vt48B-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="421" as="sourcePoint" />
+            <mxPoint x="490" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-119" value="カフェの初期成長" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="351" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-114" target="pvmtVVk8WC13cd8vt48B-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="401" as="sourcePoint" />
+            <mxPoint x="310" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-116" target="pvmtVVk8WC13cd8vt48B-111" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="531" as="sourcePoint" />
+            <mxPoint x="676" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-122" value="カフェ経営方針の提案" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="1742" y="281" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-122" target="pvmtVVk8WC13cd8vt48B-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1322" y="401" as="sourcePoint" />
+            <mxPoint x="1372" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-124" value="カフェの中成長" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2985" y="351" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="pvmtVVk8WC13cd8vt48B-119" target="pvmtVVk8WC13cd8vt48B-124" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1526" y="301" as="sourcePoint" />
+            <mxPoint x="1586" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-111" target="pvmtVVk8WC13cd8vt48B-124" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2335" y="371" as="sourcePoint" />
+            <mxPoint x="2905" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-127" value="助言" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="2525" y="131" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="pvmtVVk8WC13cd8vt48B-127" target="pvmtVVk8WC13cd8vt48B-111" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1447" y="401" as="sourcePoint" />
+            <mxPoint x="1717" y="421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-129" value="果実が話題になる" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="381" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-130" value="祖父との思い出回想" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="411" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-131" value="カフェの変化への恐れ" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="381" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1;" parent="1" source="pvmtVVk8WC13cd8vt48B-131" target="pvmtVVk8WC13cd8vt48B-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="431" as="sourcePoint" />
+            <mxPoint x="1840" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-129" target="pvmtVVk8WC13cd8vt48B-95" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="231" as="sourcePoint" />
+            <mxPoint x="1820" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-135" value="果実栽培指南" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="530" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-136" value="目的開示" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="561" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#009900;" parent="1" source="pvmtVVk8WC13cd8vt48B-95" target="pvmtVVk8WC13cd8vt48B-136" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="441" as="sourcePoint" />
+            <mxPoint x="1640" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-139" value="若返りの秘術" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="591" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-142" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-110" target="pvmtVVk8WC13cd8vt48B-111" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2315" y="421" as="sourcePoint" />
+            <mxPoint x="1998" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-143" value="不和" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="2149" y="281" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-144" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0080ff;" parent="1" source="pvmtVVk8WC13cd8vt48B-110" target="pvmtVVk8WC13cd8vt48B-143" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1935" y="431" as="sourcePoint" />
+            <mxPoint x="1985" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-145" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-122" target="pvmtVVk8WC13cd8vt48B-143" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1725" y="301" as="sourcePoint" />
+            <mxPoint x="1785" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#009900;" parent="1" source="pvmtVVk8WC13cd8vt48B-135" target="pvmtVVk8WC13cd8vt48B-122" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1817" y="540" as="sourcePoint" />
+            <mxPoint x="1677" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-147" value="過去の開示（代理）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="2345" y="131" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-148" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-143" target="pvmtVVk8WC13cd8vt48B-147" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2205" y="351" as="sourcePoint" />
+            <mxPoint x="2255" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-150" value="理解・共感・提案" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="2525" y="281" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-151" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-143" target="pvmtVVk8WC13cd8vt48B-150" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2309" y="301" as="sourcePoint" />
+            <mxPoint x="2355" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-152" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3399;" parent="1" source="pvmtVVk8WC13cd8vt48B-150" target="pvmtVVk8WC13cd8vt48B-111" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2309" y="301" as="sourcePoint" />
+            <mxPoint x="2355" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="pvmtVVk8WC13cd8vt48B-147" target="pvmtVVk8WC13cd8vt48B-127" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2685" y="151" as="sourcePoint" />
+            <mxPoint x="2805" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-155" value="過去回想" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="2525" y="321" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-156" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0080ff;fontStyle=1" parent="1" source="pvmtVVk8WC13cd8vt48B-88" target="pvmtVVk8WC13cd8vt48B-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="430" as="sourcePoint" />
+            <mxPoint x="649" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-158" value="カフェの中成長" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3190" y="351.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-159" value="過去回想" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="3410" y="181.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-160" value="祭りへの出店の提案" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="3620" y="181.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-161" value="おじいさんとの約束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="3410" y="211.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-162" value="お店を見守る&lt;br&gt;一人前になったら離れる" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="241.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-163" value="協力" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="3920" y="461.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-164" value="別れ" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="4390" y="461.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-165" value="祭りの成功" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="351.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-166" value="葛藤" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="4380" y="181.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-167" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-158" target="pvmtVVk8WC13cd8vt48B-165" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4110" y="81.5" as="sourcePoint" />
+            <mxPoint x="4160" y="31.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-169" value="カフェの大成長" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="4600" y="351.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-170" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-165" target="pvmtVVk8WC13cd8vt48B-169" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4290" y="371.5" as="sourcePoint" />
+            <mxPoint x="4160" y="111.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-171" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-169" target="pvmtVVk8WC13cd8vt48B-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4460" y="371.5" as="sourcePoint" />
+            <mxPoint x="4610" y="371.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-175" value="有名店にスカウトされる" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080ff;" parent="1" vertex="1">
+          <mxGeometry x="4810" y="411.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-176" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-169" target="pvmtVVk8WC13cd8vt48B-175" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4760" y="391.5" as="sourcePoint" />
+            <mxPoint x="4820" y="321.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-177" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-160" target="pvmtVVk8WC13cd8vt48B-166" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4000" y="91.5" as="sourcePoint" />
+            <mxPoint x="4210" y="101.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-178" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-159" target="pvmtVVk8WC13cd8vt48B-160" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3750" y="220.78999999999996" as="sourcePoint" />
+            <mxPoint x="4360" y="220.78999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-179" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-160" target="pvmtVVk8WC13cd8vt48B-163" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3780" y="201.5" as="sourcePoint" />
+            <mxPoint x="4390" y="201.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-180" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-163" target="pvmtVVk8WC13cd8vt48B-164" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3780" y="201.5" as="sourcePoint" />
+            <mxPoint x="3930" y="481.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-181" value="残留" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="4570" y="181.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-182" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-164" target="pvmtVVk8WC13cd8vt48B-181" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4080" y="481.5" as="sourcePoint" />
+            <mxPoint x="4400" y="481.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-183" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pvmtVVk8WC13cd8vt48B-166" target="pvmtVVk8WC13cd8vt48B-181" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3780" y="201.5" as="sourcePoint" />
+            <mxPoint x="4390" y="201.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-184" value="金持ちになることを夢見る少女、ミルフィ&lt;br&gt;祖父から継いだカフェの衰退に悩むサブレナ&lt;br&gt;古代の種に望みを託すミルフィに、フローランは畑を提供する&lt;br&gt;新メニュー考案に熱意を燃やすサブレナと協力してカフェを回す&lt;br&gt;古代の果実の話題性は大きく、ややお店が有名になる。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="540" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-185" value="店が有名になり、黄泉がえりの秘術を探すモナカが来店する&lt;br&gt;モナカは果実育成に明るく、古代の果実への興味から、高度な手法を伝える&lt;br&gt;古代の果実の展望の大きさから、ミルフィはこのままの調子でお店を続けることを提案する&lt;br&gt;一方サブレナは、盛り上がりを取り戻すお店に喜びつつも、変化に懸念を感じる&lt;br&gt;お店の大きな変化を訪れるサブレナと、変化を望むミルフィは次第に対立するようになる&lt;br&gt;フローランによって、サブレナの過去が明かされる&lt;br&gt;ミルフィは変化を恐れる気持ちに共感しつつも、それによって店がなくなることの寂しさを説く&lt;br&gt;フローランによって、かつてのメニューは客によって柔軟に変化していたことを知る&lt;br&gt;サブレナが変化を恐れなくなり、お店はまた一段階成長する" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="940" y="600" width="530" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-186" value="お店の経営が軌道に乗り、これまで以上の盛り上がりを見せる&lt;br&gt;フローランは、祭りへの出店を提案し、モナカも協力の意思を見せる&lt;br&gt;フローランは店の成長に喜びを感じつつも、別れの必要性を感じ、葛藤する&lt;br&gt;もともと、サブレナが一人前になるまで見守るというのがおじいさんとの約束だった&lt;br&gt;祭りは成功を納め、フローランは別れを決意する&lt;br&gt;同時に、モナカも別れを決意していた&lt;br&gt;モナカは、古代の果実に若返りの可能性が無いと結論付けた&lt;br&gt;一方で、若返った時に帰る場所がないということに気が付く（若返る理由）&lt;br&gt;またカフェに立ち寄った際に、フローランの姿がないのは寂しいと告げる&lt;br&gt;フローランは、カフェが自らの居場所になっていたことに気づき、カフェに残ることを決断する&lt;br&gt;&lt;br&gt;祭りの成功によって、お店はさらに活気づく&lt;br&gt;そこへ、有名店の経営者が入ってきて、ミルフィとサブレナをスカウトする" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3210" y="450.5" width="530" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmtVVk8WC13cd8vt48B-187" value="スカウトの返事までの猶予期間&lt;br&gt;サブレナは、店を守るためスカウトを断ることを決める&lt;br&gt;一方、ミルフィは夢実現の大きな一歩と、スカウトを受けることを決める&lt;br&gt;残り僅かな間、人の増えたカフェで最後の接客を始める&lt;br&gt;&lt;br&gt;スカウト承諾の日、&lt;br&gt;ミルフィはお店を出るも、過去の自分と相対する&lt;br&gt;過去の自分の望みは、お金持ちになることではなく、暖かい場所で過ごすことだと理解する&lt;br&gt;葛藤を続けていたサブレナの声により、スカウトを断ることを決める。&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3220" y="731.5" width="530" height="211" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
